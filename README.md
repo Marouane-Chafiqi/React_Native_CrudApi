@@ -4,7 +4,11 @@ Une application mobile Expo qui gère des produits à travers une vraie API REST
 
 ## Démonstration
 
-▶️ **[Voir la vidéo de démo](/Record/2.mp4)**
+▶️ **[Voir la vidéo de démo](
+
+https://github.com/user-attachments/assets/fca0eb72-c655-4e18-92a4-28351fed1b31
+
+)**
 
 ## Ce que fait l'application
 
